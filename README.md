@@ -1,6 +1,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.kaggle.com/gokulraja0/account" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gokulraja0/account" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gokul-raja-98903a98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gokul-raja-98903a98/" height="30" width="40" /></a>
 </p>
 - 👋 Hi, I’m Gokulraja
 <br>
