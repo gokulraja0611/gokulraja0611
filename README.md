@@ -10,7 +10,7 @@
 - 👀 I’m interested in **Machine Learning, Data Science**
 
 - 📫 How to reach me **gokulraja.com**
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><p><a target="_blank" rel="noopener noreferrer" href="https://i.ibb.co/1vcjb0t/developer.gif"><img align="right" src="https://i.ibb.co/1vcjb0t/developer.gif" alt="Coder GIF" width="420" height="330" style="max-width: 100%;"></a></p>
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/gokulraja0611/readme/main/developer.gif"><img align="right" src="https://raw.githubusercontent.com/gokulraja0611/readme/main/developer.gif" alt="Coder GIF" width="420" height="330" style="max-width: 100%;"></a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gokul_raja_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gokul_raja_" height="30" width="40" /></a>
