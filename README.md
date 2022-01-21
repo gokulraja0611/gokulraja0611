@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Data Analyst**
 
-- - 👀 I’m interested in **Machine Learning, Data Science**
+- 👀 I’m interested in **Machine Learning, Data Science**
 
 - 📫 How to reach me **gokulraja.com**
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p><a target="_blank" rel="noopener noreferrer" href="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif"><img align="right" src="https://github.com/rajaprerak/rajaprerak/raw/master/developer.gif" alt="Coder GIF" width="420" height="330" style="max-width: 100%;"></a></p>
